@@ -1,5 +1,5 @@
 document.getElementById('formulario').addEventListener('submit', function(e) {
-    e.preventDefault();
+    e.preventDefault(); //se puede usar query selector
 
 let nombre = document.getElementById('txtNombre').value.trim();
 let asunto = document.getElementById ('txtAsunto').value.trim();
