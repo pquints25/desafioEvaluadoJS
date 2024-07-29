@@ -1,0 +1,35 @@
+.selector {
+    width: 350px;
+    height: 350px;
+    background-color: white;
+}
+
+.estatura{
+    display: flex;
+    width: 130px;
+    height: 120px;
+}
+
+.color1{
+    background-color: #ff069b;
+}
+
+.color2{
+background-color: #e33900;
+}
+
+.color3{
+    background-color: #bbff00;
+}
+
+.color4{
+    background-color: rgb(0, 255, 21);
+}
+
+.color5{
+    background-color: #0080ff;
+}
+
+.color6{
+    background-color: #360025;
+}
